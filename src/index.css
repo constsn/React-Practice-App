@@ -1,0 +1,22 @@
+.accordion-item {
+  border: 2px solid #ccc;
+  padding: 10px;
+}
+
+.header {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.open {
+  background-color: #4f46e5;
+  color: white;
+  font-size: 18px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+.done {
+  text-decoration: line-through;
+}
