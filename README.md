@@ -35,8 +35,6 @@ _Add a screenshot or short GIF of the app here, if available._
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/accordion-memo.git
-cd accordion-memo
 npm install
 npm run dev
 ```
